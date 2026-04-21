@@ -1,10 +1,4 @@
-Got it. You want **one clean, complete README.md**, no breaks confusion, no missing pieces, everything in one place, ready to paste.
-
-Here it is 👇 (fully polished, compact, professional)
-
----
-
-````markdown
+ 
 # 🚀 Python Fundamentals – Day 1
 
 ## 📌 Overview
